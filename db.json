@@ -125,22 +125,22 @@
     {
       link: "https://zee-care-hospital-user.netlify.app",
       name: "Hospital Management",
-      img: "https://res-console.cloudinary.com/dnhf2dbis/thumbnails/v1/image/upload/v1721565826/U2NyZWVuc2hvdF8yMDI0LTA3LTIxXzE2MjgxMl9sdGZhdmg",
+      img: "https://res-console.cloudinary.com/dnhf2dbis/thumbnails/v1/image/upload/v1721565826/U2NyZWVuc2hvdF8yMDI0LTA3LTIxXzE2MjgxMl9sdGZhdmg"
     },
     {
       link: "https://zee-care-hospital-user.netlify.app",
       name: "Hospital Management - Admin",
-      img: "https://res.cloudinary.com/dnhf2dbis/image/upload/v1724773101/Screenshot_2024-08-28_210806_wkjhmn.png",
+      img: "https://res.cloudinary.com/dnhf2dbis/image/upload/v1724773101/Screenshot_2024-08-28_210806_wkjhmn.png"
     },
     {
       link: "https://job-portal-ng.netlify.app",
       name: "Job Portal",
-      img: "https://res.cloudinary.com/dnhf2dbis/image/upload/v1724773185/Screenshot_2024-08-04_142612_lm8oqs.png",
+      img: "https://res.cloudinary.com/dnhf2dbis/image/upload/v1724773185/Screenshot_2024-08-04_142612_lm8oqs.png"
     },
     {
       link: "https://kinarsardhara.netlify.app",
       name: "Protfolio",
-      img: "https://res.cloudinary.com/dnhf2dbis/image/upload/v1724773185/Screenshot_2024-08-04_142612_lm8oqs.png",
+      img: "https://res.cloudinary.com/dnhf2dbis/image/upload/v1724773185/Screenshot_2024-08-04_142612_lm8oqs.png"
     }
   ]
 }
