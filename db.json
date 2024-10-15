@@ -121,7 +121,7 @@
       "hotel": 3
     }
   ],
-    portfolioData : [
+  "portfolioData": [
     {
       link: "https://zee-care-hospital-user.netlify.app",
       name: "Hospital Management",
