@@ -3,7 +3,7 @@
     {
       "link": "https://zee-care-hospital-user.netlify.app",
       "name": "Hospital Management",
-      "img": "https://res-console.cloudinary.com/dnhf2dbis/thumbnails/v1/image/upload/v1721565826/U2NyZWVuc2hvdF8yMDI0LTA3LTIxXzE2MjgxMl9sdGZhdmg"
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1721565826/Screenshot_2024-07-21_162812_ltfavh.png"
     },
     {
       "link": "https://zee-care-hospital-user.netlify.app",
@@ -18,7 +18,53 @@
     {
       "link": "https://kinarsardhara.netlify.app",
       "name": "Protfolio",
-      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1724773185/Screenshot_2024-08-04_142612_lm8oqs.png"
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1724774710/Screenshot_2024-08-28_213459_f9idmb.png"
+    },
+    {
+      "link": "https://sk-ecomm.netlify.app",
+      "name": "SK-Ecommerce",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1729007658/Screenshot_2024-10-16_212234_df3mg9.png"
+    },
+    {
+      "link": "https://sktravels.vercel.app",
+      "name": "SK-Travosy",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1729008417/Screenshot_2024-10-10_222006_wcudoi.png"
+    },
+    {
+      "link": "https://sk-shoes.vercel.app",
+      "name": "SK-Shoes",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1729008651/Screenshot_2024-10-16_214058_r2sdkb.png"
+    },
+    {
+      "link": "snap-chat-app.netlify.app",
+      "name": "Snappy",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1729009555/Screenshot_2024-08-30_221007_eqpsh5.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Daniel Lewis",
+      "quote": "Richard was hired to create a corporate identity. We were very pleased with the work done test none",
+      "date": "14 June,2021",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1721565826/Screenshot_2024-07-21_162812_ltfavh.png"
+    },
+    {
+      "name": "Daniel Lewis",
+      "quote": "Richard was hired to create a corporate identity. We were very pleased with the work done test none",
+      "date": "14 June,2021",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1721565826/Screenshot_2024-07-21_162812_ltfavh.png"
+    },
+    {
+      "name": "Daniel Lewis",
+      "quote": "Richard was hired to create a corporate identity. We were very pleased with the work done test none",
+      "date": "14 June,2021",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1721565826/Screenshot_2024-07-21_162812_ltfavh.png"
+    },
+    {
+      "name": "Daniel Lewis4",
+      "quote": "Richard was hired to create a corporate identity. We were very pleased with the work done test none",
+      "date": "14 June,2021",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1721565826/Screenshot_2024-07-21_162812_ltfavh.png"
     }
   ]
 }
