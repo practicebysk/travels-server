@@ -15,7 +15,7 @@ server.use(middlewares);
 server.use("/travel", router1); 
 server.use("/portfolio", router2); 
 
-const port = 3000;
+const port = process.env.PORT;
 server.listen(port, () => {
   console.log(`JSON Server is running on http://localhost:${port}`);
 });
