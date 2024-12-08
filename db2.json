@@ -39,6 +39,16 @@
       "link": "https://snappychaat.netlify.app",
       "name": "Snappy",
       "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1729009555/Screenshot_2024-08-30_221007_eqpsh5.png"
+    },
+    {
+      "link": "https://dash-shoppy.vercel.app",
+      "name": "Shoppy Dashboard",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1733635985/Screenshot_2024-12-09_110346_fgiadn.png"
+    },
+    {
+      "link": "https://pro-twitter-x.netlify.app",
+      "name": "X-twitter",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1733635902/Screenshot_2024-12-09_105909_roln5g.png"
     }
   ],
   "testimonials": [
