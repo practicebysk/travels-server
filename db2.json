@@ -54,6 +54,11 @@
       "link": "https://uilex.vercel.app",
       "name": "Uilex",
       "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1733651789/Screenshot_2024-12-09_151746_pkvxn8.png"
+    },
+    {
+      "link": "dashboard-jira.vercel.app",
+      "name": "Jira Dashboard",
+      "img": "https://marketplace.atlassian.com/product-listing/files/2f08dea5-c754-4dda-95ff-3cc3179ba9c5?fileType=image&mode=full-fit"
     }
   ],
   "testimonials": [
