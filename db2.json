@@ -56,9 +56,19 @@
       "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1733651789/Screenshot_2024-12-09_151746_pkvxn8.png"
     },
     {
-      "link": "dashboard-jira.vercel.app",
+      "link": "https://dashboard-jira.vercel.app",
       "name": "Jira Dashboard",
       "img": "https://marketplace.atlassian.com/product-listing/files/2f08dea5-c754-4dda-95ff-3cc3179ba9c5?fileType=image&mode=full-fit"
+    },
+    {
+      "link": "https://cube-daashboard.vercel.app",
+      "name": "Cube Dashboard",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1740309272/Screenshot_2025-02-23_164432_c6df6x.png"
+    },
+    {
+      "link": "https://storee-commerce.netlify.app",
+      "name": "Store E-commerce",
+      "img": "https://res.cloudinary.com/dnhf2dbis/image/upload/v1740309484/Screenshot_2025-02-23_164950_asjdq0.png"
     }
   ],
   "testimonials": [
